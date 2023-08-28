@@ -27,7 +27,26 @@ GIF created with ezgif...
 [peek](https://github.com/phw/peek) for Linux. -->
 
 ## App Brainstorming (Step 4)
+Snapchat
+The chat feature offers a meaningful avenue for connecting with people.
+The Map functionality is quite remarkable; I'm intrigued by the way it presents nearby points of interest and various locations.
+The convenience of having all these features in one app truly enhances the user experience.
+Slack
 
+The simplicity of Slack's interface, especially the chat-switching toolbar, is something I genuinely admire.
+Moreover, its notification system is truly commendable, adding to its overall greatness.
+Lyft
+
+Enabling the scheduling of weeks in advance is a significant advantage.
+The capability to access the driver's profile adds to the app's appeal.
+The option to rate the driver upon completing a trip provides a valuable feedback mechanism.
+My App: Travel Companion
+
+Advanced scheduling for weeks ahead, ensuring a hassle-free travel experience.
+Instant access to driver profiles, promoting transparency and trust.
+Convenient post-trip driver rating system for valuable feedback.
+Interactive map displaying local attractions and diverse destinations.
+All-in-one platform for streamlined travel planning and execution.
 ## Notes
 
 Describe any challenges encountered while building the app. 
